@@ -71,4 +71,6 @@ This function generates plot comparing the history output from different GTC run
 
 * It will be greatly appreciated if you want to contribute. Please feel free to contact me at *zhixuanw@uci.edu*
 
+# License:
 
+This is a free-software available under GNU General Public License Version 3 (see LICENSE.md). 
